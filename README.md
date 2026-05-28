@@ -19,7 +19,7 @@ sudo ./scripts/user_management.sh
 ```
 
 ## Screenshots
-![Main Menu](screenshots/01_main_menu.png)
+![Main Menu](screenshots/main_menupage.png)
 ![Create User](screenshots/02_create_user.png)
 
 ## Concepts Covered
